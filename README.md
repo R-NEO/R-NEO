@@ -1,4 +1,4 @@
-<h1 align="center">
+<h2 align="center">
   <br>
   <samp>
     Hello World! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.instagram.com/hamijaya_neo/">NEO</a></b>.
@@ -8,7 +8,7 @@
   
   <img src="https://raw.githubusercontent.com/R-NEO/R-NEO/master/assets/cristina.gif" width="200"/>
   
-</h1>
+</h2>
 
 <details align="center">
   
