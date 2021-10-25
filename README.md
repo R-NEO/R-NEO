@@ -9,5 +9,8 @@
   <img src="https://raw.githubusercontent.com/R-NEO/R-NEO/master/assets/cristina.gif" width="200"/>
   
 </p>
+
+<details align="center">
+<summary> <b> <samp> test </samp></b></summary>
   
  🌙 By [Hamijaya Neo](https://www.instagram.com/hamijaya_neo/)
