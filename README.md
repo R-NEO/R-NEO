@@ -6,4 +6,7 @@
 
 </samp>
   
-  </p>
+  <img src="https://raw.githubusercontent.com/R-NEO/R-NEO/master/assets/cristina.gif" width="200"/>
+  
+</p>
+  
